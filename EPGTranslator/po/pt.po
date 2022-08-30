@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-16 19:01+0430\n"
 "PO-Revision-Date: 2021-02-17 00:23+0000\n"
-"Last-Translator: Automatically generated\n"
+"Last-Translator: p.rodrigues <pfrodrigues@sapo.pt>\n"
 "Language-Team: none\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -18,229 +18,229 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "Afrikaans"
-msgstr ""
+msgstr "Africano"
 
 msgid "Albanian"
-msgstr ""
+msgstr "Albanês"
 
 msgid "Arabic"
-msgstr ""
+msgstr "Árabe"
 
 msgid "Azerbaijani"
-msgstr ""
+msgstr "Azerbaijano"
 
 msgid "Basque"
-msgstr ""
+msgstr "Basco"
 
 msgid "Belarusian"
-msgstr ""
+msgstr "Bielorrusso"
 
 msgid "Bosnian"
-msgstr ""
+msgstr "Bósnio"
 
 msgid "Bulgarian"
-msgstr ""
+msgstr "Búlgaro"
 
 msgid "Cache cleared"
-msgstr ""
+msgstr "Cache limpa"
 
 msgid "Cache timeout hours (0 == while valid):"
-msgstr ""
+msgstr "Limite de tempo da cache (0 == enquanto válido)"
 
 msgid "Catalan"
-msgstr ""
+msgstr "Catalão"
 
 msgid "Cebuano"
-msgstr ""
+msgstr "Cubano"
 
 msgid "Clear cache"
-msgstr ""
+msgstr "Limpar a cache"
 
 msgid "Croatian"
-msgstr ""
+msgstr "Croata"
 
 msgid "Czech"
-msgstr ""
+msgstr "Checo"
 
 msgid "Danish"
-msgstr ""
+msgstr "Dinamarquês"
 
 msgid "Destination Language:"
-msgstr ""
+msgstr "Idioma de destino:"
 
 msgid "Detect Language"
-msgstr ""
+msgstr "Detectar Idioma"
 
 msgid "Dutch"
-msgstr ""
+msgstr "Alemão"
 
 msgid "English"
-msgstr ""
+msgstr "Inglês"
 
 msgid "Estonian"
-msgstr ""
+msgstr "Estónio"
 
 msgid "EventViews open translated:"
-msgstr ""
+msgstr "Open EventViews traduzido:"
 
 msgid "Exit"
-msgstr ""
+msgstr "Sair"
 
 msgid "Filipino"
-msgstr ""
+msgstr "Filipino"
 
 msgid "Finnish"
-msgstr ""
+msgstr "Finlandês"
 
 msgid "French"
-msgstr ""
+msgstr "Frances"
 
 msgid "Galician"
-msgstr ""
+msgstr "Galego"
 
 msgid "German"
-msgstr ""
+msgstr "Alemão"
 
 msgid "Greek"
-msgstr ""
+msgstr "Grego"
 
 msgid "Haitian Creole"
-msgstr ""
+msgstr "Crioulo haitiano"
 
 msgid "Hide"
-msgstr ""
+msgstr "Esconder"
 
 msgid "Hungarian"
-msgstr ""
+msgstr "Húngaro"
 
 msgid "Icelandic"
-msgstr ""
+msgstr "Islandês"
 
 msgid "Indonesian"
-msgstr ""
+msgstr "Indonésio"
 
 msgid "Info"
-msgstr ""
+msgstr "Informação"
 
 msgid "Irish"
-msgstr ""
+msgstr "Irlandês"
 
 msgid "Italian"
-msgstr ""
+msgstr "Italiano"
 
 msgid "Javanese"
-msgstr ""
+msgstr "Japonês"
 
 msgid "Latvian"
-msgstr ""
+msgstr "Letão"
 
 msgid "Lithuanian"
-msgstr ""
+msgstr "Lituano"
 
 msgid "MENU"
-msgstr ""
+msgstr "MENU"
 
 msgid "Macedonian"
-msgstr ""
+msgstr "Macedónio"
 
 msgid "Malay"
-msgstr ""
+msgstr "Malaio"
 
 msgid "Maltese"
-msgstr ""
+msgstr "Maltês"
 
 msgid "No"
-msgstr ""
+msgstr "Não"
 
 msgid "Norwegian"
-msgstr ""
+msgstr "Norueguês"
 
 msgid "Persian"
-msgstr ""
+msgstr "Persa"
 
 msgid "Polish"
-msgstr ""
+msgstr "Polonês"
 
 msgid "Portuguese"
-msgstr ""
+msgstr "Português"
 
 msgid "Refresh EPG"
-msgstr ""
+msgstr "Refrescar o EPG"
 
 msgid "Romanian"
-msgstr ""
+msgstr "Romeno"
 
 msgid "Russian"
-msgstr ""
+msgstr "Russo"
 
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 msgid "Selct this option to show the source text as well as the translated text in EPG Translator main screen show."
-msgstr ""
+msgstr "Selecione esta opção para mostrar o texto de origem, bem como o texto traduzido pelo tradutor de EPG visualizado na tela principal"
 
 msgid "Select the source langauge to be translated, or select 'Detect Langauge' and the translator will attempt to automatically detect the source language."
-msgstr ""
+msgstr "Selecione o idioma de origem a ser traduzido ou selecione 'Detectar Idioma' e o tradutor tentará detectar automaticamente a idioma de origem"
 
 msgid "Serbian"
-msgstr ""
+msgstr "Sérvio"
 
 msgid "Show Source EPG:"
-msgstr ""
+msgstr "Mostrar a fonte do EPG:"
 
 msgid "Show traceback in errors:"
-msgstr ""
+msgstr "Mostrar traceback em erros:"
 
 msgid "Slovak"
-msgstr ""
+msgstr "Eslovaco"
 
 msgid "Slovenian"
-msgstr ""
+msgstr "Esloveno"
 
 msgid "Source Language:"
-msgstr ""
+msgstr "Idioma de origem:"
 
 msgid "Spanish"
-msgstr ""
+msgstr "Espanhol"
 
 msgid "Swahili"
-msgstr ""
+msgstr "Suaíli"
 
 msgid "Swedish"
-msgstr ""
+msgstr "Sueco"
 
 msgid "TEXT"
-msgstr ""
+msgstr "TEXTO"
 
 msgid "This is a development feature. On a translation failure, if enabled, extra debug information will be logged."
-msgstr ""
+msgstr "Este é um recurso em desenvolvimento. Na falha de uma tradução, se ativado, informações extras de depuração serão registradas."
 
 msgid "This is the language the source text will be translated into."
-msgstr ""
+msgstr "Este é o idioma em que o texto de origem será traduzido."
 
 msgid "Translate text"
-msgstr ""
+msgstr "Traduzir texto"
 
 msgid "Translations are cached to avoid unnecessary re-translation. This is the number of hours the translation will survive in the cache before deletion. Select '0' for the cache entry to expire once the program has completed."
-msgstr ""
+msgstr "As traduções são armazenadas em cache para evitar re-tradução desnecessária. Este é o número de horas em que a tradução sobreviverá na cache antes da exclusão. Selecionar '0' para a entrada do cache expirar assim que o programa tiver concluído. "
 
 msgid "Turkish"
-msgstr ""
+msgstr "Turco"
 
 msgid "Ukrainian"
-msgstr ""
+msgstr "Ucraniano"
 
 msgid "Urdu"
-msgstr ""
+msgstr "Urdu"
 
 msgid "Vietnamese"
-msgstr ""
+msgstr "Vietnamita"
 
 msgid "Welsh"
-msgstr ""
+msgstr "Galês"
 
 msgid "When an EventView window is opened, start with the translated text."
-msgstr ""
+msgstr "Quando uma janela de EventView for aberta, comece com o texto traduzido."
 
 msgid "Yes"
-msgstr ""
+msgstr "Sim"
